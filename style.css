@@ -1,0 +1,48 @@
+body{
+    font-family: 'Poppins',sans-serif;
+    
+    
+   
+    text-align: center;
+}
+h1{
+    text-decoration: underline;
+    
+}
+.btn{
+    width: 200px;
+    height: 200px;
+    border-radius: 20%;
+    
+    margin: 2.5rem;
+    box-shadow: 0  5px 15px rgba(0,0,0.1);
+    transform: scale(1);
+}
+.btn-container{
+display: flex;
+justify-content: center;
+
+
+border-radius: 15px;
+}
+.yellow{
+    background: yellow
+}
+.purple{
+    background: purple
+}
+.green{
+    
+    background-color: #63aac0;
+}
+.red{
+    background: red;
+}
+.flash{
+    background-color: white;
+}
+
+
+
+
+
